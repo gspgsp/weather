@@ -1,6 +1,5 @@
-<h1 align="center"> weather </h1>
-
-<p align="center"> A Weather SDK.</p>
+## 介绍
+<p color="blue">获取天气类的SDK</p> 
 
 ## 安装过程
 
@@ -43,15 +42,12 @@ class WeatherController extends Controller
 }
 ```
 
-## 提点儿意见呗
+## 问题
 
 You can contribute in one of three ways:
 
-1. File bug reports using the [issue tracker](https://github.com/gspgsp/weather/issues).
-2. Answer questions or fix bugs on the [issue tracker](https://github.com/gspgsp/weather/issues).
-3. Contribute new features or update the wiki.
-
-_The code contribution process is not very formal. You just need to make sure that you follow the PSR-0, PSR-1, and PSR-2 coding guidelines. Any new code contributions must be accompanied by unit tests where applicable._
+1. 如果有任何的bug，请点击这里[issue tracker](https://github.com/gspgsp/weather/issues).
+2. 不明白的也可以点击这里[issue tracker](https://github.com/gspgsp/weather/issues).
 
 ## 许可
 
