@@ -13,9 +13,9 @@ use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Mockery\Matcher\AnyArgs;
-use Ggsspp\Weather\Exceptions\HttpException;
-use Ggsspp\Weather\Exceptions\InvalidArgumentException;
-use Ggsspp\Weather\Weather;
+use ggsspp\Weather\Exceptions\HttpException;
+use ggsspp\Weather\Exceptions\InvalidArgumentException;
+use ggsspp\Weather\Weather;
 use PHPUnit\Framework\TestCase;
 
 class WeatherTest extends TestCase
