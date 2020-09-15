@@ -43,9 +43,6 @@ class WeatherController extends Controller
 ```
 
 ## 问题
-
-You can contribute in one of three ways:
-
 1. 如果有任何的bug，请点击这里[issue tracker](https://github.com/gspgsp/weather/issues).
 2. 不明白的也可以点击这里[issue tracker](https://github.com/gspgsp/weather/issues).
 
