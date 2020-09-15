@@ -7,15 +7,15 @@
  * Time: 13:49
  */
 
-namespace Ggsspp\Weather\Tests;
+namespace Gspgsp\Weather\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Mockery\Matcher\AnyArgs;
-use Ggsspp\Weather\Exceptions\HttpException;
-use Ggsspp\Weather\Exceptions\InvalidArgumentException;
-use Ggsspp\Weather\Weather;
+use Gspgsp\Weather\Exceptions\HttpException;
+use Gspgsp\Weather\Exceptions\InvalidArgumentException;
+use Gspgsp\Weather\Weather;
 use PHPUnit\Framework\TestCase;
 
 class WeatherTest extends TestCase

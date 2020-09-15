@@ -1,10 +1,10 @@
 {
-    "name": "ggsspp/weather",
+    "name": "gspgsp/weather",
     "description": "A Weather SDK",
     "license": "MIT",
     "authors": [
         {
-            "name": "ggsspp",
+            "name": "gspgsp",
             "email": "guoshipengdss@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ggsspp\\Weather\\": "./src"
+            "Gspgsp\\Weather\\": "./src"
         }
     },
     "require-dev": {
@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Ggsspp\\Weather\\ServiceProvider"
+                "Gspgsp\\Weather\\ServiceProvider"
             ]
         }
     }

@@ -6,7 +6,7 @@
  * Time: 14:27
  */
 
-namespace Ggsspp\Weather;
+namespace Gspgsp\Weather;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

@@ -6,7 +6,7 @@
  * Time: 13:43
  */
 
-namespace Ggsspp\Weather\Exceptions;
+namespace Gspgsp\Weather\Exceptions;
 
 class HttpException extends Exception
 {
