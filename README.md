@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require overtrue/weather -vvv
+$ composer require gspgsp/weather -vvv
 ```
 
 ## Usage
