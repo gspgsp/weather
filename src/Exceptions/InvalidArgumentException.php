@@ -6,7 +6,7 @@
  * Time: 13:42
  */
 
-namespace Overtrue\Weather\Exceptions;
+namespace Ggsspp\Weather\Exceptions;
 
 class InvalidArgumentException extends Exception
 {

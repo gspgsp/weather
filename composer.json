@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Overtrue\\Weather\\": "./src"
+            "Ggsspp\\Weather\\": "./src"
         }
     },
     "require-dev": {

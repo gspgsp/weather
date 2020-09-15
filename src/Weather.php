@@ -6,11 +6,11 @@
  * Time: 13:31
  */
 
-namespace Overtrue\Weather;
+namespace Ggsspp\Weather;
 
 use GuzzleHttp\Client;
-use Overtrue\Weather\Exceptions\HttpException;
-use Overtrue\Weather\Exceptions\InvalidArgumentException;
+use Ggsspp\Weather\Exceptions\HttpException;
+use Ggsspp\Weather\Exceptions\InvalidArgumentException;
 
 class Weather
 {

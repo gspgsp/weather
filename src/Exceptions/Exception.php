@@ -6,7 +6,7 @@
  * Time: 13:40
  */
 
-namespace Overtrue\Weather\Exceptions;
+namespace Ggsspp\Weather\Exceptions;
 
 class Exception extends \Exception
 {
