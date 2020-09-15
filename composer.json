@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ggsspp\\Weather\\ServiceProvider"
+                "Ggsspp\\Weather\\ServiceProvider"
             ]
         }
     }

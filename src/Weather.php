@@ -6,7 +6,7 @@
  * Time: 13:31
  */
 
-namespace ggsspp\Weather;
+namespace Ggsspp\Weather;
 
 use GuzzleHttp\Client;
 use Ggsspp\Weather\Exceptions\HttpException;
