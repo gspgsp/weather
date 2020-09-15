@@ -1,10 +1,10 @@
 {
-    "name": "overtrue\/weather",
+    "name": "Ggsspp\/weather",
     "description": "A Weather SDK",
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
+            "name": "Ggsspp",
             "email": "guoshipengdss@gmail.com"
         }
     ],
@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Overtrue\\Weather\\ServiceProvider"
+                "Ggsspp\\Weather\\ServiceProvider"
             ]
         }
     }
